@@ -1,3 +1,4 @@
+%% ---------------------------
 function [] = TimeTrans(x)
 fprintf('timecost = \n');
 if x < 60
